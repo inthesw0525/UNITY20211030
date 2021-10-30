@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: "Assets/\u5834\u666F/\u9078\u55AE.unity"
     guid: c217b63a142f7c04a8145dd02c3ada23
   - enabled: 1
-    path: "Assets/\u5834\u666F/\u95DC\u5361 1.unity"
-    guid: ef3c658c495d28c4a91063521fc08106
+    path: "Assets/\u95DC\u53612.unity"
+    guid: 938a03f7df334fa41b96ea27bb8ca5b8
   - enabled: 1
-    path: "Assets/\u5834\u666F/\u95DC\u5361 2.unity"
-    guid: e476bb53302333e4d84e28e1234df1ef
+    path: "Assets/\u95DC\u53611.unity"
+    guid: 92c8c9dbd05306642acc7df83c163b62
   m_configObjects: {}
